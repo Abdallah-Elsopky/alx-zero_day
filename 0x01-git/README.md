@@ -1,1 +1,1 @@
-This is my first project using git
+This is the only time I am allowed to edit through GitHub
